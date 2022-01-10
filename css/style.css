@@ -74,7 +74,7 @@ body{
     grid-row: 4/5;
     background-image: url('/images/spiderman_11.jpeg');
 }
-
+/* 
 @media (max-width: 1280px){
     .contenedor{
         grid-template-columns: repeat(4,1fr);
@@ -178,4 +178,4 @@ body{
     }
 
 
-}
+} */
